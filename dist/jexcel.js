@@ -10,7 +10,7 @@
 
  if (! jSuites && typeof(require) === 'function') {
     var jSuites = require('jsuites');
-    require('jsuites/dist/jsuites.css');
+//     require('jsuites/dist/jsuites.css');
 }
 
 ;(function (global, factory) {
